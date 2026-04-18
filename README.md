@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @balaji0931
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on full-stack web development projects, contribute to open-source repositories, and enhance my skills in building both front-end and back-end solutions.
-- 📫 How to reach me You can reach me through my GitHub Issues, or email me at balajinayakbardawal@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: love to learn while working.
+
